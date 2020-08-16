@@ -5,5 +5,5 @@
 画彩虹🌈 [预览](https://yangbin1215.gitee.io/learn-work/HTML/work02/rainbow.html)
 ## 跳动的心
 ❤[预览](https://yangbin1215.gitee.io/learn-work/CSS/work01/BeatingHeart.html)
-## canvas画板
+## Canvas画板
 [预览](https://yangbin1215.gitee.io/learn-work/JavaScript/canvas/index.html)
