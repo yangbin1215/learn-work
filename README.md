@@ -6,4 +6,4 @@
 ## 跳动的心
 ❤[预览](https://yangbin1215.gitee.io/learn-work/CSS/work01/BeatingHeart.html)
 ## canvas画板
-❤[预览](https://yangbin1215.gitee.io/learn-work/JavaScript/canvas/index.html)
+[预览](https://yangbin1215.gitee.io/learn-work/JavaScript/canvas/index.html)
