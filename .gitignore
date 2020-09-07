@@ -8,6 +8,7 @@
 out
 gen
 .idea/
-/CV/cv-1/.cache/
-/CV/cv-1/.vscode/
-/CV/cv-1/node_modules/
+CV/cv-1/.cache/
+CV/cv-1/.vscode/
+CV/cv-1/node_modules/
+JavaScript/Algorithm/node_modules/
